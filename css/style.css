@@ -1,0 +1,100 @@
+.header{
+	overflow: hidden;
+	min-height: 5px;
+	text-align: center;
+	background-color: #f6f7fb;
+}
+
+.menu{
+	float: center;
+	display: inline-block;
+}
+
+.menu ul{
+	list-style-type: none;
+    background-color: #f6f7fb;
+	text-align: center;
+	margin: 10px;
+	padding: 0px;
+	overflow: hidden;
+}
+
+.menu ul li{
+	float: left;
+}
+
+.menu ul li a{
+	display: block;
+	color: black;
+	text-align: center;
+	padding: 10px;
+    text-decoration: none;
+}
+
+.menu ul li a:hover{
+	background-color: gray; 
+}
+
+
+.body{
+    height: 600px;
+    overflow: hidden;
+    background-color: #fdcd09;
+    display: block;
+    text-align: center;
+}
+
+.box{
+	height: 400px;
+	width: 400px;
+	margin: 100px;
+	padding: 0px;
+	display: inline-block;
+    overflow: hidden;
+    background-color: #f6f7fb;
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 20px;
+    font-family: arial black;
+}
+
+.logo{
+	overflow: hidden;
+	height: 10;
+	float: center;
+	display: inline;
+	overflow: hidden;
+}
+
+.title{
+	overflow: hidden;
+	display: inline;
+	float: center;
+	text-align: center;
+	color: gray;
+}
+
+.info{
+	height: 150px;
+	width: 300px;
+	margin: 50px;
+	padding: 0px;
+	display: inline-block;
+    overflow: hidden;
+    background-color; #f6f7fb;
+    box-sizing: border-box;
+    text-align: top;
+    font-size: 15px;
+    font-family: montseratt;
+}
+
+/*.user-name{
+    overflow: hidden;
+	display: inline-block;
+	padding: 0px 10px;
+	float:left;
+	text-align: center;
+	color: gray;*/
+}
+
+.
